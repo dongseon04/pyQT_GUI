@@ -1,0 +1,4 @@
+﻿이름,전화번호,메모,사진,감지된 객체
+김동선,01012345678,,image\cam_save.jpg,"space-empty, space-occupied, space-occupied, space-occupied, space-occupied, space-empty, space-occupied"
+r,r,,image\cam_save.jpg,"space-empty, space-empty, space-empty, space-empty, space-empty, space-empty, space-occupied, space-empty, space-empty, space-empty, space-occupied, space-empty, space-empty, space-empty"
+김동선,01012345678,,image\cam_save.jpg,"space-empty, space-empty, space-occupied"
