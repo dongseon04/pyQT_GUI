@@ -20,15 +20,15 @@
 ![image](https://github.com/user-attachments/assets/7185e835-f18d-450d-b132-76665ecadb73)
 
 ## 설치 방법
-### 새로운 가상환경 생성
+##### 새로운 가상환경 생성
 conda create -n juso_yolo python=3.9
 
-### git colne
+##### git colne
 git clone http://github.cpm/ultralytics/yolo5.git
 
-### requirement.txt 인스톨
+##### requirement.txt 인스톨
 pip install -3 requirement.txt
 
-### Copilot를 이용해서 코드 완성하기
+##### Copilot를 이용해서 코드 완성하기
   
 PyQt로 구성된 GUI 창이 실행되며, WebCam을 통해 실시간 주차 공간 감지가 시작됩니다.
